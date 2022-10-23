@@ -23,6 +23,7 @@
                 <button class="btn btn-sm btn-danger" @click="onDeleteContacts">
                     <i class="fas fa-trash" /> Xóa tất cả
                 </button>
+                
             </div>
         </div>
         <div class="mt-3 col-md-6">
